@@ -13,4 +13,5 @@ for (item of items) console.log(item);
   }
 }
 
-
+console.log('old for loop');
+for (let i=0; i<5; i++) console.log(items[i]);
